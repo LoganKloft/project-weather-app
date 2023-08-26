@@ -1,0 +1,19 @@
+{
+  "name": "project-weather-app",
+  "version": "1.0.0",
+  "description": "Author: Logan Kloft",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoganKloft/project-weather-app.git"
+  },
+  "author": "Logan Kloft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoganKloft/project-weather-app/issues"
+  },
+  "homepage": "https://github.com/LoganKloft/project-weather-app#readme"
+}
